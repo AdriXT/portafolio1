@@ -23,4 +23,7 @@
 >Enfocandonos más en la POO, he aprendido bastantes funciones que aportan los objetos y en los que ayudan
 >a la hora de utilizarlos, como las herencias, sus relaciones, los constructores, etc.
 ### 3 Opinión
+>Aunque el tema en sí ha sido algo complejo, ha sido un tema bastante interesante, que nos va a ayudar a la hora de programar y hacer más sencillo el código. 
+>
+>
 ### 4 Conclusión
